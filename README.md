@@ -1,9 +1,9 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Advanced Auth 🔒 </h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
-About This Course:
+About This project:
 
 -   🔧 Backend Setup
 -   🗄️ Database Setup
